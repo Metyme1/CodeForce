@@ -1,0 +1,1 @@
+{"name":"Local: brokenkeypad","url":"/home/mety/Desktop/contest/codeforce/brokenkeypad.py","tests":[{"id":1700596838756,"input":"4\na\nzzaaz\nccff\ncbddbb","output":"a\nz\n\nbc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mety/Desktop/contest/codeforce/brokenkeypad.py","group":"local","local":true}
