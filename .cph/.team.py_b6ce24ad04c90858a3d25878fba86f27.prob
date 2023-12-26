@@ -1,0 +1,1 @@
+{"name":"Local: team","url":"/home/mety/Desktop/contest/codeforce/team.py","tests":[{"id":1701188006291,"input":"3\n1 1 0\n1 1 1\n1 0 0\n","output":"2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mety/Desktop/contest/codeforce/team.py","group":"local","local":true}

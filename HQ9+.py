@@ -8,10 +8,8 @@ def produces_output(program):
     return False
 
 
-# Read the input program
 program = input()
 
-# Check if the program produces output
 if produces_output(program):
     print("YES")
 else:

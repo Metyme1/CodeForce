@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+sale = list(map(int, input().split()))
+sale.sort()
+earn = sum(sale[:b])
+print(-1 * (earn))
